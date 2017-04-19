@@ -1,0 +1,26 @@
+[
+    {
+        "first_name": "srikanth",
+        "last_name": "pathlavath",
+        "email": "srikanthnayak583@gmail.com",
+        "password": "Srikanth@123",
+        "admin": "Admin",
+        "time_stamp": "2017-03-06"
+    },
+    {
+        "first_name": "susmitha",
+        "last_name": "arvapalli",
+        "email": "saisusmitha@gmail.com",
+        "password": "Susmitha@123",
+        "admin": "Admin",
+        "time_stamp": "2017-03-06"
+    },
+    {
+        "first_name": "Prerna",
+        "last_name": "Prem",
+        "email": "prernaprembarbie@gmail.com",
+        "password": "Prerna@Chiku",
+        "admin": null,
+        "time_stamp": "2017-04-18"
+    }
+]

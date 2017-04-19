@@ -1,0 +1,7 @@
+[
+    {
+        "member_price": "20",
+        "guest_price": "25",
+        "time_stamp": "2017-04-18"
+    }
+]

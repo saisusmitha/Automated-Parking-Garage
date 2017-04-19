@@ -1,0 +1,20 @@
+[
+    {
+        "id": "58f5cc7ca93bd",
+        "name": "prashanth",
+        "email": "prashanth@gmail.com",
+        "password": "Prashanth@123",
+        "password_confirm": "Prashanth@123",
+        "mobile_no": "9908987089",
+        "time_stamp": "2017-04-18"
+    },
+    {
+        "id": "58f5f243c3c3e",
+        "name": "Sravan",
+        "email": "sravan@gmail.com",
+        "password": "Pushpa@123",
+        "password_confirm": "Sravan@123",
+        "mobile_no": "9440499782",
+        "time_stamp": "2017-04-18"
+    }
+]
