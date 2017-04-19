@@ -1,0 +1,22 @@
+[
+    {
+        "id": "58f731faedcf2",
+        "user_name": "srikanth",
+        "email": "srikanthnayak583@gmail.com",
+        "arrival_date": "2017-04-19",
+        "start_time": "18",
+        "duration": "2",
+        "vehicle_id": "AP24TSG",
+        "time_stamp": "2017-04-19"
+    },
+    {
+        "id": "58f737459d5c9",
+        "user_name": "srikanth",
+        "email": "srikanthnayak583@gmail.com",
+        "arrival_date": "2017-04-19",
+        "start_time": "24",
+        "duration": "4",
+        "vehicle_id": "OD07BIS",
+        "time_stamp": "2017-04-19"
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "id": "58ee060091b5b",
+        "user_name": "Biswa",
+        "arrival_date": "2017-04-12",
+        "start_time": "20",
+        "duration": "3",
+        "vehicle_id": "OD07BIS",
+        "mobile_no": "7663893277",
+        "manager_name": "srikanth",
+        "time_stamp": "2017-04-12"
+    }
+]

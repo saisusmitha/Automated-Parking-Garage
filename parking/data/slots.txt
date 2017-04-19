@@ -1,0 +1,1004 @@
+[
+    {
+        "slot_id": "1",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "2",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "3",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "4",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "5",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "6",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "7",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "8",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "9",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "10",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "11",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "12",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "13",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "14",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "15",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "16",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "17",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "18",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "19",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "20",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "21",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "22",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "23",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "24",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "25",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "26",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "27",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "28",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "29",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "30",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "31",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "32",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "33",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "34",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "35",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "36",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "37",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "38",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "39",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "40",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "41",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "42",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "43",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "44",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "45",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "46",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "47",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "48",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "49",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "50",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "51",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "52",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "53",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "54",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+
+    {
+        "slot_id": "55",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "56",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "57",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "58",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "59",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "60",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "61",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "62",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "63",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "64",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "65",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "66",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "67",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "68",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "69",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "70",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "71",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "72",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "73",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "74",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "75",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "76",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "77",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "78",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "79",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "80",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "81",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "82",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "83",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "84",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "85",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "86",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "87",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "88",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "89",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "90",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "91",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "92",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "93",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "94",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "95",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "96",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "97",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "98",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "99",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    },
+    {
+        "slot_id": "100",
+        "status": "F",
+        "vehicle_no": "",
+        "arrival_date": "",
+        "start_time": "",
+        "end_time": "",
+        "duration": "",
+        "user_name": ""
+    }
+
+
+]

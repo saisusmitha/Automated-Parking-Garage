@@ -1,0 +1,38 @@
+.calendar{
+	margin: 0 auto 20px;
+	width: 95%;
+}
+
+.calendar .calendar-month{
+	background: #2277BB;
+	color: #FFFFFF;
+	font-weight: bold;
+	padding: 3px;
+	text-align: center;
+}
+
+.calendar td[colspan]{
+	background: #EEEEEE;
+}
+
+.calendar a{
+	color: #333333;
+	display: block;
+}
+
+.calendar a:hover{
+	text-decoration: underline;
+}
+
+.calendar .event{
+	background: #D6F4FA;
+}
+
+.calendar .today{
+	background: #F79797;
+}
+
+.calendar .today a{
+	color: #FFFFFF;
+	font-weight: bold;
+}
